@@ -1,4 +1,4 @@
-from lista_animais_3 import lista_de_palavras
+from lista_animais_4 import lista_de_palavras
 import random
 
 
